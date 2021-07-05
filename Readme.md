@@ -1,0 +1,1 @@
+Projeto da Djangogirls para criação de um blog
